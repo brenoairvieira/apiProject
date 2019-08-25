@@ -71,9 +71,13 @@ PUT http://localhost:8080/clientes/1 - Altera um cliente de id = 1
 -Ferramentas Utilizadas
 
   IDE - Eclipse
+  
   Banco de dados - PostgreSQL
+  
   PgAdmin 4 
+  
   Projeto realizado com SpringBoot
+  
   Postman para acessar os serviços da API
   
 -O deploy da aplicação pode ser realizado em um servidor tomcat utilizando o .war gerado (clean package) da mesma
